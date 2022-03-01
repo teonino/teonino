@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teonino, a Game Designer
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning Game design
-- 💞️ I’m looking to collaborate on Video games project (The Eagle's Fate)
+- I’m looking to collaborate on Video games project (The Eagle's Fate)
 - 📫 How to reach me teonino#4256
 
 <!---
