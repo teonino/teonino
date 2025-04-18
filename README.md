@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @teonino, a Game Designer
-- 👀 I’m interested in Video games
-- 🌱 I’m currently learning Game design
-- I’m looking to collaborate on Video games project (The Eagle's Fate)
-- 📫 How to reach me teonino#4256
+Hi I'm teonino,
 
-<!---
-teonino/teonino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I try to learn and enlarge my technical skills
+
+I can code in C#, C++ and Python and I'm currently learning JavaScript both in a backend use and automation too (Appium/Selenium)
